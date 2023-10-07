@@ -1,0 +1,7 @@
+python-dotenv
+Flask-Cors
+Jinja2
+requests
+openai
+azure-storage-blob
+datetime
